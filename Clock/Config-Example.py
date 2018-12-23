@@ -80,9 +80,18 @@ LToday = "Today: "
 LSunRise = "Sun Rise:"
 LSet = " Set: "
 LMoonPhase = " Moon Phase:"
+Lmoon1 = 'New Moon'
+Lmoon2 = 'Waxing Crescent'
+Lmoon3 = 'First Quarter'
+Lmoon4 = 'Waxing Gibbous'
+Lmoon5 = 'Full Moon'
+Lmoon6 = 'Waning Gibbous'
+Lmoon7 = 'Third Quarter'
+Lmoon8 = 'Waning Crecent'
 LInsideTemp = "Inside Temp "
 LRain = " Rain: "
 LSnow = " Snow: "
+
 
 
 # RADAR
